@@ -33,29 +33,6 @@ A mobile application that allows users to create, manage, and store vacation pla
 - **Database:** SQLite (Room Library)  
 - **Tools:** Android Studio, Git, GitHub, Gradle  
 
-## Installation & Running the App
-
-
-- **Clone the repository:**
-```bash
-git clone https://github.com/PatrickRubio/VacationPlannerMobileApp.git
-cd VacationPlannerMobileApp
-```
-
-
-- **Open in Android Studio:**
-- File → Open
-- Select the project folder
-
-
-- **Build & Run:**
-- Choose emulator or physical device
-- Press **Run ▶**
-
-
----
-
-
 ## Testing
 
 

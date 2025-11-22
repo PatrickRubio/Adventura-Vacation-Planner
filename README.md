@@ -1,7 +1,7 @@
 # Adventura Vacation Planner Mobile Application
 Android | Java | SQLite (Room) | MVVM Architecture  
 
-A mobile application that allows users to create, manage, and store vacation plans using Android Studio, Java, and SQLite (Room). Designed as part of WGU’s Software Engineering capstone, this app demonstrates clean architecture, persistent storage, and responsive Android UI.
+A mobile application that allows users to create, manage, and store vacation plans using Android Studio, Java, and SQLite (Room). This app demonstrates clean architecture, persistent storage, and responsive Android UI.
 
 ---
 

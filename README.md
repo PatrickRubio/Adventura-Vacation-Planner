@@ -37,16 +37,16 @@ A mobile application that allows users to create, manage, and store vacation pla
 
 # 🛠️ Installation & How to Use
 
-- **Download the APK:**
-- [Download APK here](https://patrickrubio.github.io/Adventura-Vacation-Planner/)
+ **Download the APK:**
+[Download APK here](https://patrickrubio.github.io/Adventura-Vacation-Planner/)
 
 
-- **Install the APK on your Android device:**
+ **Install the APK on your Android device:**
 - Allow installation from unknown sources in your device settings if prompted
 - Open the APK file and follow the on-screen instructions to install
 
 
-- **Launch the App:**
+**Launch the App:**
 - Open the Adventura app from your app drawer
 - Start creating and managing your vacation plans
 

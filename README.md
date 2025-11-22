@@ -31,7 +31,27 @@ A mobile application that allows users to create, manage, and store vacation pla
 - **Languages:** Java  
 - **Architecture:** MVVM, Repository pattern  
 - **Database:** SQLite (Room Library)  
-- **Tools:** Android Studio, Git, GitHub, Gradle  
+- **Tools:** Android Studio, Git, GitHub, Gradle
+
+---
+
+# 🛠️ Installation & How to Use
+
+- **Download the APK:**
+- [Download APK here](https://patrickrubio.github.io/Adventura-Vacation-Planner/)
+
+
+- **Install the APK on your Android device:**
+- Allow installation from unknown sources in your device settings if prompted
+- Open the APK file and follow the on-screen instructions to install
+
+
+- **Launch the App:**
+- Open the Adventura app from your app drawer
+- Start creating and managing your vacation plans
+
+
+---
 
 ## Testing
 
